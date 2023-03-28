@@ -55,6 +55,7 @@ export default function Home() {
                             tak. Jeg ser på en hver utfordring til å tilegne meg
                             ny kunnskap. Mitt mål er ikke å bli best, men å bli
                             den beste personen å ha med på laget! jadda
+                        </p>
                     </div>
                 </section>
             </main>
