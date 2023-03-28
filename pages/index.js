@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import Type from "../components/TypingEffect";
+import TypingEffect from "../components/TypingEffect";
 import Navbar from "../components/navBar";
 
 import Me from "../image/Andreas.png";
@@ -23,7 +23,7 @@ export default function Home() {
             <Navbar />
             <main className='mx-2 '>
                 <div className='flex justify-center py-5 text-xl '>
-                    <Type />
+                    <TypingEffect />
                 </div>
                 <section className='mx-auto '>
                     <div>
