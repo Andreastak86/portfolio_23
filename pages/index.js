@@ -54,8 +54,7 @@ export default function Home() {
                             energisk person som aldri sier nei for å ta i et
                             tak. Jeg ser på en hver utfordring til å tilegne meg
                             ny kunnskap. Mitt mål er ikke å bli best, men å bli
-                            den beste personen å ha med på laget!
-                        </p>
+                            den beste personen å ha med på laget! jadda
                     </div>
                 </section>
             </main>
