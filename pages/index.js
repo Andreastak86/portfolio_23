@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import TypingEffect from "../components/TypingEffect";
+import TypingEffect from "../components/typingEffect";
 import Navbar from "../components/navBar";
 
 import Me from "../image/Andreas.png";
