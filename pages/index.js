@@ -57,6 +57,11 @@ export default function Home() {
                             den beste personen å ha med på laget!
                         </p>
                     </div>
+                    <ul className='pt-6 '>
+                        <li>+ 1 år med forntend development</li>
+                        <li>+ 15 år med salgserfaring</li>
+                        <li>+ 30 år med datainteresse</li>
+                    </ul>
                 </section>
             </main>
         </>
