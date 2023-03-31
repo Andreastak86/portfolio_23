@@ -11,7 +11,7 @@ import { useState } from "react";
 const Nav = () => {
     const [activeNav, setActiveNav] = useState("#");
     return (
-        <nav className='flex flex-row justify-center gap-4 mt-5'>
+        <nav className='flex flex-row justify-center items-center gap-4 mb-5 border-2 border-red-500 fixed'>
             <a
                 href='/'
                 onClick={() => setActiveNav("/")}
